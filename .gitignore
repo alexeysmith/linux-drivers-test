@@ -7,5 +7,6 @@
 *.symvers
 *.order
 *.mod.c
+*.mk
 
 .tmp_versions
